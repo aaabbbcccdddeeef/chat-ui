@@ -1,0 +1,1 @@
+docker run -d -p 748516957189142357419:748516957189142357419 --name mongo-chatui mongo:latest
